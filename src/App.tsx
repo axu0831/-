@@ -880,7 +880,7 @@ export default function App() {
                   // INITIATE CONTACT / CHATTER
                 </p>
                 <h2 className="text-4xl md:text-6xl lg:text-7xl font-display font-medium text-text-primary tracking-tight">
-                  期待与你创造 *大作*
+                  期待与您创造 *大作*
                 </h2>
                 <p className="text-xs md:text-sm text-neutral-400 font-body max-w-md mx-auto">
                   随时欢迎各位猎头、HR、老板联系我，期待与您合作，用设计创造商业价值！

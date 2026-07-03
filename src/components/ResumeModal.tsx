@@ -81,7 +81,7 @@ export default function ResumeModal({ isOpen, onClose }: ResumeModalProps) {
                         {PERSONAL_INFO.name}
                       </h1>
                       <p className="text-sm text-muted font-mono tracking-widest uppercase mt-2 print:text-neutral-500">
-                        {PERSONAL_INFO.enName}  •  电商设计师 / 视觉设计师
+                        {PERSONAL_INFO.enName}  •  电商广告投放设计师 & 视觉设计师
                       </p>
                       
                       {/* Technical tag pills */}

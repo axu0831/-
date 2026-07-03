@@ -282,7 +282,7 @@ export const EXPLORATIONS: ExplorationItem[] = [
 export const WORK_HISTORY: WorkExperience[] = [
   {
     company: "北京源东运营宝科技有限公司",
-    role: "广告投放视觉设计师 & 投放设计组长",
+    role: "电商广告投放设计师 & 视觉设计师",
     period: "2022.07 - 至今",
     descriptions: [
       "统筹飞利浦、倍轻松、澳佳宝、同仁堂等知名品牌京东自营全链路广告视觉与投放设计：",
